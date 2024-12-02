@@ -1,0 +1,9 @@
+module:com.arena.dual_arena
+com.arena.dual_arena
+com.arena.dual_arena.components
+com.arena.dual_arena.factories
+com.arena.dual_arena.models.hazard
+com.arena.dual_arena.models.projectiles
+com.arena.dual_arena.models.weapons
+com.arena.dual_arena.types
+com.arena.dual_arena.utils
